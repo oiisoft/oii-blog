@@ -1,0 +1,11 @@
+{
+	"autoload" : {
+		"psr-4" : {
+			"oii\\blog\\" : "src"
+		}
+	},
+	"name" : "oiisoft/oii-blog",
+	"require" : {
+		"php" : ">=5.4"
+	}
+}
